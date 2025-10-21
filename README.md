@@ -15,3 +15,13 @@ Tasks:
    * What message did GitHub Desktop give you?
    * Why do you think this happened?
    * What does this reveal about how Git handles remote permissions?
+The message was :
+Authentication failed. Some common reasons include: - You are not logged in to your account: see File > Options.
+ - You may need to log out and log back in to refresh your token.
+  - You do not have permission to access this repository.
+   - The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+    - If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+     - If you use SSH authentication, ensure the host key verification passes for your repository hosting service. 
+     - If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service.
+     This means that I didnt have permission to change the code as he didnt give me acsess.
+     You need to be assigned permissions to change anything in a repository remotly.
