@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Hello " + name+ ".");
         
         scanner.close();
+        System.out.print("UWU");
     }
 }
